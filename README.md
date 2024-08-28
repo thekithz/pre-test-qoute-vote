@@ -94,3 +94,9 @@ Nest is [MIT licensed](https://github.com/nestjs/nest/blob/master/LICENSE).
 $ docker run -d --name mongodb -p 27017:27017 -e MONGO_INITDB_ROOT_USERNAME=admin-e MONGO_INITDB_ROOT_PASSWORD=Ppqwert123! mongo
 
 ```
+
+#### you test API from import POSTMAN. Filename is
+
+```
+POC.postman_collection.json
+```
